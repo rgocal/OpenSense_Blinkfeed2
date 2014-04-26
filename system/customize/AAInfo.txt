@@ -1,0 +1,6 @@
+TaskID : 358399
+Project : M8_UL_K44_SENSE60_SECURITY
+SKU : HTC Europe[401]
+ROM Ver : 1.54.401.5
+Customization Id : 709407
+RCMS Id : 1113

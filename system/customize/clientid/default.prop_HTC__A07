@@ -1,0 +1,10 @@
+ro.ril.oem.ecclist=01,02,03,04,112,101,102,103,104
+ro.ril.enable.a52=0
+ro.ril.enable.a53=0
+ro.ril.enable.gea3=1
+ro.ril.enable.amr.wideband=1
+ro.ril.air.enabled=1
+ro.ril.gsm.to.lte.blind.redir=1
+ro.ril.enable.isr=1
+ro.ril.ltefgi=1561328768
+ro.kidmode.enable=0

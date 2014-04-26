@@ -1,0 +1,10 @@
+ro.ril.oem.ecclist=999
+ro.ril.enable.a53=1
+ro.ril.enable.dtm=1
+ro.ril.enable.gea3=1
+ro.ril.enable.amr.wideband=1
+ro.ril.air.enabled=1
+ro.ril.gsm.to.lte.blind.redir=1
+ro.ril.enable.isr=1
+ro.ril.ltefgi=1561328768
+ro.phone.min_match=8

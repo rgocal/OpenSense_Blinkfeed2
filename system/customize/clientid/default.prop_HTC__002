@@ -1,0 +1,10 @@
+ro.ril.oem.ecclist=999,997,100,166,199,101,102,103,104,113,114,115,118,117,1500,1518,1515,1522,1530,998,987
+ro.ril.enable.a53=1
+ro.ril.enable.gea3=1
+ro.ril.enable.amr.wideband=1
+ro.ril.air.enabled=1
+ro.ril.gsm.to.lte.blind.redir=1
+ro.ril.enable.isr=1
+ro.ril.ltefgi=1561328768
+ro.ril.oem.normalcall.ecclist=113,114,115,118,117,1500,1518,1515,1522,1530,998,987
+ro.phone.min_match=8
