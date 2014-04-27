@@ -10,7 +10,9 @@ Propriety files for HTC Sense Blinkfeed 2.0
 Warning: Repository still a WIP, do not add to a local manifest yet!
 
 Original thread: http://forum.xda-developers.com/showthread.php?t=2696399
+
 Flashable Zip: http://forum.xda-developers.com/showthread.php?p=51621342#post51621342
+
 OpenSense 6 API: http://forum.xda-developers.com/showthread.php?t=2224682
 
 Using an AOSP rom as a base, Inject the HTC Sense 6 Blinkfeed 2.0 propriety files into the system/. By doing this, you grant users a Sense 6 experience on their device. Using this as a base, developers can go forward with this and continue porting the rest of the M8's apps and framework to the desired device. 
