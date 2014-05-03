@@ -11,6 +11,8 @@ Warning: Repository still a WIP, do not add to a local manifest yet!
 
 Original thread: http://forum.xda-developers.com/showthread.php?t=2696399
 
+New Maintainer Thread: http://forum.xda-developers.com/showthread.php?t=2735764
+
 Flashable Zip: http://forum.xda-developers.com/showthread.php?p=51621342#post51621342
 
 OpenSense 6 API: http://forum.xda-developers.com/showthread.php?t=2224682
